@@ -1,9 +1,7 @@
 <h1 align="center">👋 Привет, я Булат</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=27F7D6&center=true&vCenter=true&width=500&lines=Building+scalable+backend+systems;Spring+Boot+%7C+Microservices+%7C+Docker;LLM+Integration+%7C+Highload+Solutions" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=27F7D6&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;NSU+FIT+Graduate;Microservices+%26+Highload" alt="Typing SVG" />
 </p>
 
 ---
