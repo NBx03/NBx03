@@ -22,6 +22,16 @@
 
 ---
 
+### 📚 Учебные проекты НГУ
+
+<div align="left">
+  
+[![NSU Bachelor Labs](https://github-readme-stats.vercel.app/api/pin/?username=NBx03&repo=NSU-Bachelor-Labs&theme=tokyonight&show_owner=true)](https://github.com/NBx03/NSU-Bachelor-Labs)
+
+</div>
+
+---
+
 ### 🛠️ Технологический стек
 
 **Backend & Frameworks:**  
